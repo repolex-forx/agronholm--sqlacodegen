@@ -1,0 +1,7 @@
+[2026-10-10T22:23:17Z] === AST ITERATION 1 START | repo=agronholm/sqlacodegen sha=c7eef1f5 ===
+[2026-10-10T22:23:17Z] [iter=1] PHASE START: ast repo=agronholm/sqlacodegen sha=c7eef1f5
+[2026-10-10T22:23:17Z] [iter=1] Building AST aggregate chunks
+[2026-10-10T22:23:34Z] [iter=1] AST chunks built count=1 triples=224142
+[2026-10-10T22:23:34Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/c7eef1f533f2594b2c22537d4a9900a609c07b6a/.complete
+[2026-10-10T22:23:34Z] [iter=1] PHASE END: ast elapsed_s=17 elapsed_min=0.3
+[2026-10-10T22:23:34Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
