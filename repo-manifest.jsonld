@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/agronholm/sqlacodegen/commit/c7eef1f533f2594b2c22537d4a9900a609c07b6a",
       "git:hexsha": "c7eef1f533f2594b2c22537d4a9900a609c07b6a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T22:25:08.102746+00:00"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/sqlacodegen/commit/080cd713e72357463c2a5e6f5b18b15684240d63",
