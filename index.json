@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "sqlacodegen",
+  "versions": [
+    {
+      "commit": "c7eef1f533f2594b2c22537d4a9900a609c07b6a",
+      "tag": "",
+      "parsed_at": "2026-10-10T22:25:08.137879+00:00"
+    }
+  ]
+}
